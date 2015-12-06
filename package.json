@@ -1,0 +1,14 @@
+{
+  "name": "JavaScriptCNCBot",
+  "version": "1.0.0",
+  "description": "CNC Bot",
+  "author": {
+    "name": "Grosan Flaviu Gheorghe",
+    "email": "fgheorghe@grosan.co.uk",
+    "url": "http://www.grosan.co.uk/"
+  },
+  "dependencies": {
+    "exec-sync": "*"
+  },
+  "license": "BSD-3-Clause"
+}
